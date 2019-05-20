@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `My Data Science Blog`,
-    author: `Elena K`,
-    description: `"Today I learned" - type blog on various AI and Data Science topics.`,
+    title: `Data Science and Artificial Intelligence`,
+    author: `Nellie`,
+    description: `"Today I learned"-type blog on various AI and Data Science topics.`,
     siteUrl: `https://affectionate-snyder-962186.netlify.com`,
     social: {
       twitter: `7676ee`,

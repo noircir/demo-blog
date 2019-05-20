@@ -38,11 +38,14 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives in Montreal, Quebec
-              building useful things.
+              Written by <strong>{author}</strong> who lives in Montreal, Quebec.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                Twitter
+              </a>
+              {` `}
+              <a href={`https://github.com/noircir`}>
+                Github
               </a>
             </p>
           </div>
